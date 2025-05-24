@@ -41,6 +41,4 @@ Este projeto está licenciado sob a MIT License.
 👤 Autor
 ogxrtur
 
-css
-Copiar
-Editar
+
