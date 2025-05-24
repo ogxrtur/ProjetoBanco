@@ -1,36 +1,25 @@
-# ProjetoBanco
-
-## 📖 Descrição
-
+ProjetoBanco
+📖 Descrição
 ProjetoBanco é um sistema bancário simples desenvolvido em Python. Ele permite a criação de clientes, abertura de contas e realização de operações bancárias básicas, como depósitos e saques.
 
-## 🚀 Funcionalidades
+🚀 Funcionalidades
+Cadastro de clientes
 
-- Cadastro de clientes
-- Abertura de contas bancárias
-- Depósitos e saques
-- Consulta de saldo
+Abertura de contas bancárias
 
-## 🛠️ Tecnologias Utilizadas
+Depósitos e saques
 
-- Python 3.x
+Consulta de saldo
 
-## 📦 Instalação
+🛠️ Tecnologias Utilizadas
+Python 3.x
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/ogxrtur/ProjetoBanco.git
-Navegue até o diretório do projeto:
-
+📦 Instalação
 bash
 Copiar
 Editar
+git clone https://github.com/ogxrtur/ProjetoBanco.git
 cd ProjetoBanco
-Execute o programa principal:
-
-bash
-Copiar
-Editar
 python Main.py
 🤝 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
@@ -40,5 +29,4 @@ Este projeto está licenciado sob a MIT License.
 
 👤 Autor
 ogxrtur
-
 
